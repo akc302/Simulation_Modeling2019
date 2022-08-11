@@ -1,0 +1,26 @@
+SSQ : 
+
+1. Use FIFO , LIFO , SJF and find the following performace metrices using n = 6 , pa = 0.2 , ps = 0.3 :
+
+i.  Average Delay, E[D]
+ii. Expected Number of Customers in Queue, E[Q]
+ii. Utilization of the Server, E[U]
+
+2. Find which one performs better from step-1? [FIFO , LIFO , SJF]
+
+3. You have to generate 6 graphs . 
+
+arrival rate vs E[D] : n = 50,100 and Queue discipline in task - 2 ;
+
+n = 50 , Queue = FIFO 
+x-axis : different arrival rates ;
+y - axis : average delays for the arrival rates ;
+
+n = 100 , Queue = FIFO 
+x-axis : different arrival rates ;
+y - axis : average delays for the arrival rates ;
+
+
+arrival rate vs E[Q] : n = 50,100 and Queue discipline in task - 2 ; 
+arrival rate vs E[U] : n = 50,100 and Queue discipline in task - 2 ;
+
